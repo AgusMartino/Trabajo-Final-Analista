@@ -1,0 +1,45 @@
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\BLL.xml
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\BLL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\BLL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DLL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DLL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DLL.xml
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\SL.xml
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.csproj.CopyComplete
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\BLL.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\BLL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\BLL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DLL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DocumentFormat.OpenXml.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\ExcelDataReader.DataSet.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\ExcelDataReader.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\SpreadsheetLight.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\System.Drawing.Common.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\System.IO.Packaging.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DLL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DLL.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\SL.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\DocumentFormat.OpenXml.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\ExcelDataReader.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\ExcelDataReader.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\ExcelDataReader.DataSet.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\ExcelDataReader.DataSet.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\SpreadsheetLight.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Debug\System.IO.Packaging.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Debug\BLL.csproj.CopyComplete

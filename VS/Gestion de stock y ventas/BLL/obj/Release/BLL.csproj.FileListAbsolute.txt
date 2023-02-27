@@ -1,0 +1,13 @@
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Release\BLL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Release\BLL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Release\DLL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Release\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Release\SL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Release\DLL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Release\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\bin\Release\SL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Release\BLL.csproj.CopyComplete
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Release\BLL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\BLL\obj\Release\BLL.pdb

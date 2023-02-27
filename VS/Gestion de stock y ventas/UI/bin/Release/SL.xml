@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SL</name>
+    </assembly>
+    <members>
+        <member name="M:SL.BLL.Contracts.IGenericBusinessLogic`1.insert(`0)">
+            <summary>
+            Registrando T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:SL.BLL.Contracts.IGenericBusinessLogic`1.delete(`0)">
+            <summary>
+            Elimnando T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:SL.BLL.Contracts.IGenericBusinessLogic`1.update(`0)">
+            <summary>
+            Actulizando T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:SL.BLL.Contracts.IGenericBusinessLogic`1.GetOne(System.Int32)">
+            <summary>
+            Obteniendo T
+            </summary>
+            <param name="id">identificador de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:SL.BLL.Contracts.IGenericBusinessLogic`1.GetAll">
+            <summary>
+            Listando Registros de T
+            </summary>
+            <returns>T</returns>
+        </member>
+        <member name="M:SL.BLL.Services.PerfilService.delete(SL.DOMAIN.SecurityComposite.Perfil)">
+            <summary>
+            Eliminando Perfil
+            </summary>
+            <param name="obj">Perfil</param>
+        </member>
+        <member name="M:SL.BLL.Services.PerfilService.GetAll">
+            <summary>
+            Listando Perfil
+            </summary>
+            <returns>Listado de Perfiles</returns>
+        </member>
+        <member name="M:SL.BLL.Services.PerfilService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo Perfil
+            </summary>
+            <param name="id">identicador de Perfil</param>
+            <returns>Perfil</returns>
+        </member>
+        <member name="M:SL.BLL.Services.PerfilService.insert(SL.DOMAIN.SecurityComposite.Perfil)">
+            <summary>
+            Registrando Perfil
+            </summary>
+            <param name="perfil">Perfil</param>
+        </member>
+        <member name="M:SL.BLL.Services.PerfilService.update(SL.DOMAIN.SecurityComposite.Perfil)">
+            <summary>
+            Actulizacion de Perfil
+            </summary>
+            <param name="perfil">Perfil</param>
+        </member>
+        <member name="M:SL.BLL.Services.PermisoService.delete(SL.DOMAIN.SecurityComposite.Permiso)">
+            <summary>
+            Eliminando Permiso
+            </summary>
+            <param name="obj">permiso</param>
+        </member>
+        <member name="M:SL.BLL.Services.PermisoService.GetAll">
+            <summary>
+            Listando Permisos
+            </summary>
+            <returns>Listando permisos</returns>
+        </member>
+        <member name="M:SL.BLL.Services.UsuarioService.GetAll">
+            <summary>
+            Listando Usuarios
+            </summary>
+            <returns>Listado de Usuario</returns>
+        </member>
+        <member name="M:SL.BLL.Services.UsuarioService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo Usuario
+            </summary>
+            <param name="id">identificador de Usuario</param>
+            <returns>Usuario</returns>
+        </member>
+        <member name="M:SL.BLL.Services.UsuarioService.insert(SL.DOMAIN.SecurityComposite.Usuario)">
+            <summary>
+            Registrando Usuario
+            </summary>
+            <param name="usuario">Usuario</param>
+        </member>
+        <member name="M:SL.BLL.Services.UsuarioService.update(SL.DOMAIN.SecurityComposite.Usuario)">
+            <summary>
+            Actulizando Usuario
+            </summary>
+            <param name="usuario">Usuario</param>
+        </member>
+        <member name="M:SL.BLL.Services.UsuarioService.Login(SL.DOMAIN.SecurityComposite.Usuario)">
+            <summary>
+            Ingresando Al sistema con el Usuario
+            </summary>
+            <param name="usuario">Usuario</param>
+            <returns>Aceptacion de Usuario o no</returns>
+        </member>
+        <member name="M:SL.BLL.Services.UsuarioService.EncryptPassword(System.String)">
+            <summary>
+            Encriptado de contraseña
+            </summary>
+            <param name="Contraseña">Contraseña</param>
+            <returns></returns>
+        </member>
+        <member name="M:SL.DAL.Contracts.IEntityAdapter`1.Adapt(System.Object[])">
+            <summary>
+            Adaptando Valores
+            </summary>
+            <param name="values">Valores</param>
+            <returns>Objeto</returns>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRelationship`2.Join(`0,`1)">
+            <summary>
+            Relacion entre T y U
+            </summary>
+            <param name="obj1">T</param>
+            <param name="obj2">U</param>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRelationship`2.Get(`0)">
+            <summary>
+            Obteniendo Listado de U
+            </summary>
+            <param name="obj">T</param>
+            <returns>Listado de U</returns>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRelationship`2.GetPermisos(`1)">
+            <summary>
+            Obteniendo Listado de T
+            </summary>
+            <param name="obj">U</param>
+            <returns>Listado de T</returns>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRelationship`2.DeleteJoin(`1)">
+            <summary>
+            Eliminando Relacion
+            </summary>
+            <param name="obj">U</param>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRepository`1.Insert(`0)">
+            <summary>
+            Registrando T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRepository`1.Delete(System.Int32)">
+            <summary>
+            Eliminando T
+            </summary>
+            <param name="id">identificador de T</param>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRepository`1.Update(`0)">
+            <summary>
+            Actulizando T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRepository`1.GetOne(System.Int32)">
+            <summary>
+            Obteniendo T
+            </summary>
+            <param name="id">Identificador de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRepository`1.GetAll">
+            <summary>
+            Listando Registros de T
+            </summary>
+            <returns>listado de T</returns>
+        </member>
+        <member name="M:SL.DAL.Contracts.IGenericRepository`1.GetId(System.String)">
+            <summary>
+            Obteniedo identificador de  T
+            </summary>
+            <param name="Nombre">nombre de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:SL.DAL.Contracts.IUsuarioRepository`1.Login(`0)">
+            <summary>
+            Login de T
+            </summary>
+            <param name="obj">T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:SL.DAL.Contracts.IUsuarioRepository`1.Cambiar_contraseña(`0)">
+            <summary>
+            Actulizando Contraseña de T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:SL.Services.Helper.GetHelper(System.String,System.Windows.Forms.HelpProvider,System.Windows.Forms.Form)">
+            <summary>
+            instanciando Manual de usuario
+            </summary>
+            <param name="key">identificador de hoja</param>
+            <param name="helpProvider">objeto</param>
+            <param name="form">formulario</param>
+        </member>
+        <member name="M:DAL.Tools.SqlHelper.ExecuteScalar(System.String,System.Data.CommandType,System.Data.SqlClient.SqlParameter[])">
+            <summary>
+            Set the connection, command, and then execute the command and only return one value.
+            </summary>
+        </member>
+        <member name="M:DAL.Tools.SqlHelper.ExecuteReader(System.String,System.Data.CommandType,System.Data.SqlClient.SqlParameter[])">
+            <summary>
+            Set the connection, command, and then execute the command with query and return the reader.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DLL</name>
+    </assembly>
+    <members>
+        <member name="M:DLL.Contracts.IEntityAdapter`1.Adapt(System.Object[])">
+            <summary>
+            Adaptando Objeto
+            </summary>
+            <param name="values">Valores a adaptar</param>
+            <returns>Objeto</returns>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRelationship`2.Join(`0,`1)">
+            <summary>
+            Relacionando T con U
+            </summary>
+            <param name="obj1">T</param>
+            <param name="obj2">U</param>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRelationship`2.GetFamilia(`0)">
+            <summary>
+            Obteniendo Relaciones de U con T
+            </summary>
+            <param name="obj">T</param>
+            <returns>Listado de relaciones de U</returns>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRelationship`2.GetComponentes(`1)">
+            <summary>
+            Obteniendo listado de relaciones de T con U
+            </summary>
+            <param name="obj">U</param>
+            <returns>Listado de T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRelationship`2.DeleteJoin(`1)">
+            <summary>
+            Eliminanado Relacion de U
+            </summary>
+            <param name="obj">U</param>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRepository`1.insert(`0)">
+            <summary>
+            Registrando T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRepository`1.delete(`0)">
+            <summary>
+            Eliminando T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRepository`1.update(`0)">
+            <summary>
+            Actualizando T
+            </summary>
+            <param name="obj">T</param>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRepository`1.GetOne(System.Int32)">
+            <summary>
+            Obteniendo T
+            </summary>
+            <param name="id">identificador de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IGenericRepository`1.GetAll">
+            <summary>
+            Listando T
+            </summary>
+            <returns>Listando de T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IMateriaPrimaProductoRepository`1.GetOneCodigo(System.String)">
+            <summary>
+            Obteniendo T
+            </summary>
+            <param name="codigo">codigo identificador de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IOrden_de_CompraRepository`1.GetOrdenesDeCompra(System.Int32)">
+            <summary>
+            Listando T
+            </summary>
+            <param name="id">identificador de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IOrden_de_ventaRepository`1.GetOrdenes(System.Int32)">
+            <summary>
+            Listando T
+            </summary>
+            <param name="id">identificador de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IPagoProveedorRepository`1.GetMontoAdeudado(System.Int32)">
+            <summary>
+            Obtenienndo Monnto adeudado
+            </summary>
+            <param name="id">identificador de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IPagoProveedorRepository`1.GetPago_proveedorId(System.DateTime)">
+            <summary>
+            Obteniedo identificadot de T
+            </summary>
+            <param name="dateTime">Fecha de registro de T</param>
+            <returns></returns>
+        </member>
+        <member name="M:DLL.Contracts.IPagoProveedorRepository`1.GetPagosEntreFecha(System.DateTime,System.DateTime)">
+            <summary>
+            Listando T entre fechas
+            </summary>
+            <param name="dateTimeInicio">Fecha de inicio</param>
+            <param name="dateTimeFin">Fecha de fin</param>
+            <returns>Listado de T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IPagosRepository`1.GetPagoEntreFecha(System.DateTime,System.DateTime)">
+            <summary>
+            Listando T entre fechas
+            </summary>
+            <param name="dateTimeInicio">fecha de inicio</param>
+            <param name="dateTimeFin">Fecha de fin</param>
+            <returns>Listado de T</returns>
+        </member>
+        <member name="M:DLL.Contracts.ITurnoRepository`1.GetTurno(System.DateTime)">
+            <summary>
+            Obteniendo identificador de T
+            </summary>
+            <param name="dateTime">Fecha de registro de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IVentaRepository`1.GetId(System.DateTime)">
+            <summary>
+            Obteniendo identificador de T
+            </summary>
+            <param name="dateTime">Fecha de registro de T</param>
+            <returns>T</returns>
+        </member>
+        <member name="M:DLL.Contracts.IVentaRepository`1.GetVentasEntreFechas(System.DateTime,System.DateTime)">
+            <summary>
+            Obteniedo Listado de T entre fechas 
+            </summary>
+            <param name="DateTimeInicio">Fecha de inicio</param>
+            <param name="DateTimeFin">Fecha de fin</param>
+            <returns>Listado de T</returns>
+        </member>
+        <member name="M:DAL.Tools.SqlHelper.ExecuteScalar(System.String,System.Data.CommandType,System.Data.SqlClient.SqlParameter[])">
+            <summary>
+            Set the connection, command, and then execute the command and only return one value.
+            </summary>
+        </member>
+        <member name="M:DAL.Tools.SqlHelper.ExecuteReader(System.String,System.Data.CommandType,System.Data.SqlClient.SqlParameter[])">
+            <summary>
+            Set the connection, command, and then execute the command with query and return the reader.
+            </summary>
+        </member>
+    </members>
+</doc>

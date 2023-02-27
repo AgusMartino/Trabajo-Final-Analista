@@ -1,0 +1,9 @@
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Release\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Release\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Release\SL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Release\SL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Release\DOMAIN.csprojAssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Release\DOMAIN.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Release\DOMAIN.csproj.CopyComplete
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Release\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Release\DOMAIN.pdb

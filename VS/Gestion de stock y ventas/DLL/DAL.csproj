@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B71DA3B5-E697-4457-B49E-6F74C389D438}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DLL</RootNamespace>
+    <AssemblyName>DLL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
+    <DocumentationFile>bin\Debug\DLL.xml</DocumentationFile>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contracts\IEntityAdapter.cs" />
+    <Compile Include="Contracts\IGenericRelationship.cs" />
+    <Compile Include="Contracts\IGenericRepository.cs" />
+    <Compile Include="Contracts\IOrden_de_CompraRepository.cs" />
+    <Compile Include="Contracts\IOrden_de_ventaRepository.cs" />
+    <Compile Include="Contracts\IPagoProveedorRepository.cs" />
+    <Compile Include="Contracts\IPagosRepository.cs" />
+    <Compile Include="Contracts\ITurnoRepository.cs" />
+    <Compile Include="Contracts\IVentaRepository.cs" />
+    <Compile Include="Factories\Factory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\ClienteAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\EmpleadoAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\InventarioAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\MateriaPrimaAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\Movimiento_cajaAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\Orden_de_compraAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\Orden_de_ventaAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\PagoEmpleadoAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\PagoServicioAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\Pago_proveedorAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\ProductoAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\ServicioAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\RubroAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\ProveedorAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\Tipo_de_movimientoAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\Tipo_de_pagoAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\TurnoAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\UnidadDeMedidaAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\Adapters\VentaAdapter.cs" />
+    <Compile Include="Repositories\SqlServer\InventarioRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Movimiento_cajaRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Orden_de_compraRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Orden_de_ventaRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Pago_empleadoRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Pago_proveedorRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Pago_servicioRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Productos\MateriaPrimaProductoRelationship.cs" />
+    <Compile Include="Repositories\SqlServer\Productos\MateriaPrimaRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Productos\ProductoRepository.cs" />
+    <Compile Include="Repositories\SqlServer\RubroRepository.cs" />
+    <Compile Include="Repositories\SqlServer\ClienteRepository.cs" />
+    <Compile Include="Repositories\SqlServer\ProveedorRepository.cs" />
+    <Compile Include="Repositories\SqlServer\ServicioRepository.cs" />
+    <Compile Include="Repositories\SqlServer\EmpleadoRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Tipo_de_movimientoRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Tipo_de_pagoRepository.cs" />
+    <Compile Include="Repositories\SqlServer\TurnoRepository.cs" />
+    <Compile Include="Repositories\SqlServer\Unidad_de_medidaRepository.cs" />
+    <Compile Include="Repositories\SqlServer\VentaRepository.cs" />
+    <Compile Include="Tools\SqlHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DOMAIN\DOMAIN.csproj">
+      <Project>{5DACDF95-CCF1-49F4-87A6-47E5A15020AA}</Project>
+      <Name>DOMAIN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SL\SL.csproj">
+      <Project>{27FDA476-2F2C-4434-BD86-E5479B0CB384}</Project>
+      <Name>SL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

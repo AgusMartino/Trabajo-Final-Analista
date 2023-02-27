@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27D4E64D-4234-4EBB-86DA-81E2C259ABC5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FmrAltaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaCliente.Designer.cs">
+      <DependentUpon>FmrAltaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAltaEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaEmpleado.Designer.cs">
+      <DependentUpon>FmrAltaEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAltaMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaMateriaPrima.Designer.cs">
+      <DependentUpon>FmrAltaMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAltaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaProducto.Designer.cs">
+      <DependentUpon>FmrAltaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAltaProductoMasiva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaProductoMasiva.Designer.cs">
+      <DependentUpon>FmrAltaProductoMasiva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAltaProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaProveedor.Designer.cs">
+      <DependentUpon>FmrAltaProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAltaRubro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaRubro.Designer.cs">
+      <DependentUpon>FmrAltaRubro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAltaServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaServicio.Designer.cs">
+      <DependentUpon>FmrAltaServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAltaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAltaUsuario.Designer.cs">
+      <DependentUpon>FmrAltaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrInventario.Designer.cs">
+      <DependentUpon>FmrInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrCancelarPagoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrCancelarPagoEmpleado.Designer.cs">
+      <DependentUpon>FmrCancelarPagoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrCancelarPagoProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrCancelarPagoProveedor.Designer.cs">
+      <DependentUpon>FmrCancelarPagoProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrCancelarPagoServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrCancelarPagoServicio.Designer.cs">
+      <DependentUpon>FmrCancelarPagoServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrCancelarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrCancelarVenta.Designer.cs">
+      <DependentUpon>FmrCancelarVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrCrearPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrCrearPerfil.Designer.cs">
+      <DependentUpon>FmrCrearPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrGestionCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrGestionCaja.Designer.cs">
+      <DependentUpon>FmrGestionCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrGestionInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrGestionInventario.Designer.cs">
+      <DependentUpon>FmrGestionInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrGestionTurnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrGestionTurnos.Designer.cs">
+      <DependentUpon>FmrGestionTurnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarCliente.Designer.cs">
+      <DependentUpon>FmrListarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarEmpleado.Designer.cs">
+      <DependentUpon>FmrListarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarMateriaPrima.Designer.cs">
+      <DependentUpon>FmrListarMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarPagoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarPagoEmpleado.Designer.cs">
+      <DependentUpon>FmrListarPagoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarPagoProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarPagoProveedores.Designer.cs">
+      <DependentUpon>FmrListarPagoProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarPagoServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarPagoServicio.Designer.cs">
+      <DependentUpon>FmrListarPagoServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarPerfil.Designer.cs">
+      <DependentUpon>FmrListarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarProducto.Designer.cs">
+      <DependentUpon>FmrListarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarProveedor.Designer.cs">
+      <DependentUpon>FmrListarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarServicio.Designer.cs">
+      <DependentUpon>FmrListarServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarRubros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarRubros.Designer.cs">
+      <DependentUpon>FmrListarRubros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarTurnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarTurnos.Designer.cs">
+      <DependentUpon>FmrListarTurnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarUsuarios.Designer.cs">
+      <DependentUpon>FmrListarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrListarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrListarVentas.Designer.cs">
+      <DependentUpon>FmrListarVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrLogin.Designer.cs">
+      <DependentUpon>FmrLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarCliente.Designer.cs">
+      <DependentUpon>FmrModificarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarEmpleado.Designer.cs">
+      <DependentUpon>FmrModificarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarMateriaPrima.Designer.cs">
+      <DependentUpon>FmrModificarMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarPerfil.Designer.cs">
+      <DependentUpon>FmrModificarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarProducto.Designer.cs">
+      <DependentUpon>FmrModificarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarProveedor.Designer.cs">
+      <DependentUpon>FmrModificarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarRubro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarRubro.Designer.cs">
+      <DependentUpon>FmrModificarRubro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarServicio.Designer.cs">
+      <DependentUpon>FmrModificarServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrModificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrModificarUsuario.Designer.cs">
+      <DependentUpon>FmrModificarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrPagoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrPagoEmpleado.Designer.cs">
+      <DependentUpon>FmrPagoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrPagoProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrPagoProveedor.Designer.cs">
+      <DependentUpon>FmrPagoProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrPagoServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrPagoServicio.Designer.cs">
+      <DependentUpon>FmrPagoServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrPrincipal.Designer.cs">
+      <DependentUpon>FmrPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrRealizarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrRealizarVenta.Designer.cs">
+      <DependentUpon>FmrRealizarVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrVentasPorProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrVentasPorProducto.Designer.cs">
+      <DependentUpon>FmrVentasPorProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventarioReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventarioReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Lisener\IMateriaPrimaSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IPagoEmpleadoSeleccionaLisener.cs" />
+    <Compile Include="Lisener\IPagoProveedorSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IPagoServicioSeleciconadoLisener.cs" />
+    <Compile Include="Lisener\IPerfilSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IProveedorSeleccionaLisener.cs" />
+    <Compile Include="Lisener\IClienteSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\ITurnoSeleccionadoLisenner.cs" />
+    <Compile Include="Lisener\IUnidadDeMedidaSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IUsuarioSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IRubroSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IProductoSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IServicioSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IProveedorSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IEmpleadoSeleccionadoLisener.cs" />
+    <Compile Include="Lisener\IVentaSeleccionadoLisener.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VentasPorProductoR.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VentasPorProductoR.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="FmrAltaCliente.resx">
+      <DependentUpon>FmrAltaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAltaEmpleado.resx">
+      <DependentUpon>FmrAltaEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAltaMateriaPrima.resx">
+      <DependentUpon>FmrAltaMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAltaProducto.resx">
+      <DependentUpon>FmrAltaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAltaProductoMasiva.resx">
+      <DependentUpon>FmrAltaProductoMasiva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAltaProveedor.resx">
+      <DependentUpon>FmrAltaProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAltaRubro.resx">
+      <DependentUpon>FmrAltaRubro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAltaServicio.resx">
+      <DependentUpon>FmrAltaServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAltaUsuario.resx">
+      <DependentUpon>FmrAltaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrInventario.resx">
+      <DependentUpon>FmrInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrCancelarPagoEmpleado.resx">
+      <DependentUpon>FmrCancelarPagoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrCancelarPagoProveedor.resx">
+      <DependentUpon>FmrCancelarPagoProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrCancelarPagoServicio.resx">
+      <DependentUpon>FmrCancelarPagoServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrCancelarVenta.resx">
+      <DependentUpon>FmrCancelarVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrCrearPerfil.resx">
+      <DependentUpon>FmrCrearPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionCaja.resx">
+      <DependentUpon>FmrGestionCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionInventario.resx">
+      <DependentUpon>FmrGestionInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionTurnos.resx">
+      <DependentUpon>FmrGestionTurnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarCliente.resx">
+      <DependentUpon>FmrListarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarEmpleado.resx">
+      <DependentUpon>FmrListarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarMateriaPrima.resx">
+      <DependentUpon>FmrListarMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarPagoEmpleado.resx">
+      <DependentUpon>FmrListarPagoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarPagoProveedores.resx">
+      <DependentUpon>FmrListarPagoProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarPagoServicio.resx">
+      <DependentUpon>FmrListarPagoServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarPerfil.resx">
+      <DependentUpon>FmrListarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarProducto.resx">
+      <DependentUpon>FmrListarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarProveedor.resx">
+      <DependentUpon>FmrListarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarServicio.resx">
+      <DependentUpon>FmrListarServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarRubros.resx">
+      <DependentUpon>FmrListarRubros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarTurnos.resx">
+      <DependentUpon>FmrListarTurnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarUsuarios.resx">
+      <DependentUpon>FmrListarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrListarVentas.resx">
+      <DependentUpon>FmrListarVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrLogin.resx">
+      <DependentUpon>FmrLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarCliente.resx">
+      <DependentUpon>FmrModificarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarEmpleado.resx">
+      <DependentUpon>FmrModificarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarMateriaPrima.resx">
+      <DependentUpon>FmrModificarMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarPerfil.resx">
+      <DependentUpon>FmrModificarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarProducto.resx">
+      <DependentUpon>FmrModificarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarProveedor.resx">
+      <DependentUpon>FmrModificarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarRubro.resx">
+      <DependentUpon>FmrModificarRubro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarServicio.resx">
+      <DependentUpon>FmrModificarServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrModificarUsuario.resx">
+      <DependentUpon>FmrModificarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrPagoEmpleado.resx">
+      <DependentUpon>FmrPagoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrPagoProveedor.resx">
+      <DependentUpon>FmrPagoProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrPagoServicio.resx">
+      <DependentUpon>FmrPagoServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrPrincipal.resx">
+      <DependentUpon>FmrPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrRealizarVenta.resx">
+      <DependentUpon>FmrRealizarVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrVentasPorProducto.resx">
+      <DependentUpon>FmrVentasPorProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventarioReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InventarioReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VentasPorProductoR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VentasPorProductoR.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="I18n\idioma.en-EN" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{af5c231c-db5a-418f-941f-352b1d740193}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DOMAIN\DOMAIN.csproj">
+      <Project>{5dacdf95-ccf1-49f4-87a6-47e5a15020aa}</Project>
+      <Name>DOMAIN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SL\SL.csproj">
+      <Project>{27FDA476-2F2C-4434-BD86-E5479B0CB384}</Project>
+      <Name>SL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="I18n\idioma.es-AR" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

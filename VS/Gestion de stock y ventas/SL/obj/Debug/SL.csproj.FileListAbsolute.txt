@@ -1,0 +1,21 @@
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\SL.xml
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.csprojAssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\SL.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\ExcelDataReader.DataSet.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\ExcelDataReader.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\ExcelDataReader.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\ExcelDataReader.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\ExcelDataReader.DataSet.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\bin\Debug\ExcelDataReader.DataSet.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.csproj.AssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.csproj.CopyComplete
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\SL\obj\Debug\SL.pdb

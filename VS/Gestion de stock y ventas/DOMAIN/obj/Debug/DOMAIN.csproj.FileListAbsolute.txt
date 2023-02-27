@@ -1,0 +1,26 @@
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\SL.xml
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.csprojAssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.csproj.CopyComplete
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\ExcelDataReader.DataSet.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\ExcelDataReader.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\SL.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\ExcelDataReader.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\ExcelDataReader.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\ExcelDataReader.DataSet.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\bin\Debug\ExcelDataReader.DataSet.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.csproj.CopyComplete
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\DOMAIN\obj\Debug\DOMAIN.pdb

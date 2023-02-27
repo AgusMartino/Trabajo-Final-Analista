@@ -1,0 +1,182 @@
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csprojAssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaCliente.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaEmpleado.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaMateriaPrima.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaProducto.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaProveedor.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaRubro.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaServicio.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaUsuario.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrInventario.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCancelarPagoEmpleado.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCancelarPagoProveedor.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCancelarPagoServicio.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCancelarVenta.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCrearPerfil.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrGestionCaja.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrGestionInventario.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrGestionTurnos.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarCliente.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarEmpleado.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarMateriaPrima.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarPagoEmpleado.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarPagoProveedores.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarPagoServicio.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarPerfil.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarProducto.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarProveedor.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarServicio.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarRubros.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarTurnos.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarUsuarios.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarVentas.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrLogin.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarCliente.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarEmpleado.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarMateriaPrima.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarPerfil.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarProducto.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarProveedor.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarRubro.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarServicio.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarUsuario.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrPagoEmpleado.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrPagoProveedor.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrPagoServicio.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrPrincipal.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrRealizarVenta.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrVentasPorProducto.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.Properties.Resources.resources
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csproj.GenerateResource.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\UI.exe.config
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\UI.exe
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\UI.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\AxShockwaveFlashObjects.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\BLL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportSource.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.Shared.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DLL.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\ShockwaveFlashObjects.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\stdole.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\BLL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\BLL.xml
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\SL.xml
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DLL.pdb
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DLL.xml
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csproj.CopyComplete
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.exe
+R:\Agus\Facultad\Practica Profecional\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaCliente.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaEmpleado.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaMateriaPrima.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaProducto.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaProveedor.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaRubro.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaServicio.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaUsuario.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrInventario.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCancelarPagoEmpleado.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCancelarPagoProveedor.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCancelarPagoServicio.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCancelarVenta.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrCrearPerfil.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrGestionCaja.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrGestionInventario.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrGestionTurnos.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarCliente.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarEmpleado.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarMateriaPrima.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarPagoEmpleado.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarPagoProveedores.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarPagoServicio.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarPerfil.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarProducto.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarProveedor.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarServicio.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarRubros.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarTurnos.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarUsuarios.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrListarVentas.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrLogin.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarCliente.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarEmpleado.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarMateriaPrima.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarPerfil.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarProducto.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarProveedor.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarRubro.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarServicio.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrModificarUsuario.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrPagoEmpleado.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrPagoProveedor.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrPagoServicio.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrPrincipal.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrRealizarVenta.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrVentasPorProducto.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.Properties.Resources.resources
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csproj.GenerateResource.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.exe
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\UI.exe.config
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\UI.exe
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\UI.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\BLL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DOMAIN.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\ExcelDataReader.DataSet.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\ExcelDataReader.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\SL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\SpreadsheetLight.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DLL.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\ShockwaveFlashObjects.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DocumentFormat.OpenXml.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\System.Drawing.Common.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\stdole.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\BLL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\BLL.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DOMAIN.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\SL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\SL.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\ExcelDataReader.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\ExcelDataReader.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\ExcelDataReader.DataSet.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\ExcelDataReader.DataSet.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\SpreadsheetLight.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DLL.pdb
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DLL.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\bin\Debug\DocumentFormat.OpenXml.xml
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.csproj.CopyComplete
+R:\Agus\Facultad\Practica Profecional 3ero\Sistema de gestion de stock y ventas\VS\Gestion de stock y ventas\UI\obj\Debug\UI.FmrAltaProductoMasiva.resources

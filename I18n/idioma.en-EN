@@ -1,0 +1,419 @@
+﻿Proveedor dado de alta:supplier registered
+Rubro dado de alta:Category registered
+Servicio dado de alta:Service registered
+Usuario dado de alta:User registered
+Pago de empleado cancelado:Employee pay canceled
+Pago de proveedor Cancelado:Supplier pay canceled
+Pago de servicio cancelado:Service pay canceled
+Venta cancelada:Sale canceled
+Tiene que iniciar un turno:Have to start turn
+Ingreso de dinero realizado:Income of money made
+Egreso de dinero realizado:Money outflow made
+Ingreso de Materia Prima exitoso:Successful Raw Material Entry
+Egreso de Materia Prima exitoso:Successful Raw Material Egress
+Turno iniciado con exito:Turn started successfully
+Turno Cerrado con exito:Turn closed successfully
+Usuario o Contraseña invalido:Invalid username or password
+Cliente modificado:Modified customer
+Empleado modificado:Modified employee
+Materia prima modificada:Modified Raw Material
+Producto modificado:Modifed Product
+Proveedor modificado:Modified supplier
+Rubro modificado:Modified Category
+Servicio modificado:Modified Service
+Pago de empleado realizado:Employee pay made
+Pago de proveedor realizado:Supplier pay made
+Pago de servicio realizado:Service pay made
+Venta Realizada:Sale made
+Obteniendo Lista de Clientes:Getting customer list
+Obteniendo el cliente con id:Getting customer with id
+Haciendo el Alta del cliente Dni:Register a customer with Dni
+Haciendo la actulizacion del cliente Dni:Update a customer with Dni
+Obteniendo listado de Empleados:Getting Employee list
+Obteniendo empleados con id:Getting Employee with id
+Haciendo el alta del Empleado con Dni:Register an employee with Dni
+Haciendo la actulizacion del Empleado con Dni:Update an employee with Dni
+Obteniendo Inventario de Materia Prima con id:Getting inventory of Raw material with id
+Generando Inventario de la Materia Prima con id:Register inventory of Raw material with id
+Actualizando inventario de la Materia Prima con id:Update inventory of Raw material with id
+Cancelando movimiento de caja con id:Canceled cash flow with id
+Obteniendo Lista de movimientos de caja:Getting cash flow list
+Obteniendo movimiento de caja con id:Getting cash flow with id
+Realizando movieminto de caja con fecha:Making cash flow with date 
+Cancelado orden de compra del pago:Canceled payment purchase order
+Obteniendo Listado de ordenes de compra del pago con id:Getting purchase order list of the payment with id
+Realizando Orden de compra de la materia prima:Making purchase order of the Raw material
+Cancelando ordenes de venta de la venta con id:Canceled sale order of sale with id
+Obteniendo las ordenes de venta de la venta con id:Getting sale order list of the sale with id
+Realizando orden de venta de la venta con id:Making sale order of the sale with id
+Cancelando pago de empleado con id:Canceled payment of customer with id
+Obteniendo todos los pagos realizados a empleados:Getting all employee payment
+Registrando el pago del Empleado:Register employee payment
+Cancelando el pago de proveedor con id:Canceled supplier payment with id
+Obteniedo todos los pagos de proveedores:Getting all supplier payment
+Obteniedo ultimo registro del proveedor con id:Getting last supplier payment with id
+Obteniedo pago proveedor realizado con id:Getting supplier payment with id
+Obteniedo pago proveedor realizado con fecha:Getting supplier payment with date
+Registrando Pago al proveedor:Register supplier payment
+Actualizando Pago al proveedor:Update supplier payment
+Cancelando el pago de servicio con id:Canceled Service payment with id
+Obteniendo pagos realizados de servicios:Getting services payment
+Registrando el pago del Servicio:Register service payment
+Obteniendo listado de Proveedores:Getting supplier list
+Obteniendo proveedor con id:Getting supplier with id
+Haciendo el alta del Proveedor con Cuit:Register supplier with Cuit
+Haciendo la Actulizacion del Proveedor con Cuit:Update supplier with Cuit
+Obteniendo listado de Rubros:Getting Category list
+Obteniendo Rubro con id:Getting Category with id
+Haciendo el alta del Rubro con Codigo:Register Category with Heading code
+Haciendo la actulizacion del Rubro con Codigo:Update Category with Heading code
+Obteniendo listado de Servicios:Getting service list
+Obteniendo Servicio con id:Getting service with id
+Haciendo el alta del Servicio con Codigo:Register service with service code
+Haciendo la actualizacion del Servicio con Codigo:Update service with service code
+Obteniendo Lista de tipos de movimiento:Getting movements types list
+Obteniendo tipos de movimiento con id:Getting movement type with id
+Obteniendo Lista de tipos de pagos:Getting payment types list
+Obteniendo tipo de pago con id:Getting payment type with id
+Obteniendo Lista de Turnos:Getting turns list
+Obteniendo Turno con id:Getting turn with id
+Obteniendo Turno con Fecha:Getting turn with date
+Dando de alta Turno con Fecha:Register turn with date
+Actualizando fecha de cierre del Turno con id:update deadline of turn with id
+Obteniendo listado de Unidad de medidas:Getting Units of measurement list
+Obteniendo Unidad de medida con id:Getting Unit of measurement with id
+Cancelando Venta con id:Canceled sale with id
+Obteniedo todas las ventas:Getting sales list
+Obteniedo Venta realizada con fecha:Getting sale with id
+Realizando venta con fecha:Register sale with date
+El Dni ya esta registrado:The Dni is already register
+El codigo de Materia prima ya existe:The Raw Material code is already register
+El codigo de producto ya existe:The product code is already register
+El cuit del proveedor ya esta registrado:The supplier cuit is already register
+El codigo del rubro ya existe:The Category code is already register
+El codigo del servicio ya existe:The service code is already register
+Turno ya iniciado:Turn is already initiated
+Turno no iniciado:Turn is not initiated
+Primer Nombre :FirstName
+Apellido:LastName
+Dni:Dni
+Fecha de nacimineto:Date of birth
+Direccion:Adress
+Registrar Cliente:Register Client
+Empleado:Employee
+Registrar Empleado:Regiter Employee
+Codigo Materia Prima:Raw Material code
+Unidad de medida:Unit of measurement
+Costo:cost
+Registrar Materia Prima:Register Raw Material
+Codigo Producto:Product code
+Precio:Price
+Seleccionar Rubro:Select Category
+Registrar Producto:Register product
+Seleccionar Materia Prima:Select Raw Material
+Nombre Materia Prima:Raw Material name
+Cantidad:Quantity
+Agregar Componente:Add component
+Codigo Componente:Component code
+Nombre componente:Component name
+Unidad de Medida:Unit of measurement
+Costo:Cost
+Remover Componente:Remove component
+General:General
+Componentes:Component
+Cuit:Cuit
+Registrar Proveedor:Register supplier
+Codigo Rubro:Category code
+Registrar Rubro:Register Category
+Codigo Servicio:Service code
+Registrar Servicio:Register service
+Usuario:User
+Perfil:Profile
+Contraseña:Password
+Repetir contraseña:Repeat password
+Habilitado:Enabled
+Registrar Usuario:Register User
+Id Pago empleado:Id Employee payment
+Id Empleado:Id Employee
+Nombre empleado:Employee name
+Monto Pagado:Amount paid
+Fecha de pago:Payment date
+Buscar Pago Empleado:Search employee payment
+Cancelar Pago Empleado:Cancel employee payment
+Buscar Pago Proveedor:Search supplier payment
+Proveedor:Supplier
+SubTotal:SubTotal
+Monto Adeudado:Amount owed
+Monto Total a pagar:Total amount to pay
+Fecha de Pago Realizado:Date of payment made
+id Orden De Compra:Id Purchase order
+Nombre Materia Prima:Raw Material name
+Subtotal:SubTotal
+Cancelar Pago:Cancel payment
+Buscar Pago Servicio:Search Service payment
+Cancelar Pago Servicio:Cancel Service payment
+Id Pago Servicio:Id Service payment
+Id Servicio:Id Service
+Nombre Servicio:Service name
+Fecha de pago:Payment date
+Seleccionar Venta:Select Sale
+Codigo de Venta:Sale code
+Cliente:Client
+Fecha de venta:Date of sale
+Cancelar Venta:Cancel Sale
+Id Producto:Id Product
+Nombre Producto:Product name
+Nombre Perfil:Profiel name
+Permisos:Permissions
+Realizar Venta:Make sale
+Cancelar Venta:Cancel Sale
+Gestion de Pagos:Payment management
+Gestion de Usuarios:Users management
+Gestion de Perfiles:Profiles management
+Gestion de Clientes:Client management
+Gestion de Empleados:Employees management
+Gestion de Rubros:Categories management
+Gestion de Productos:Products management
+Gestion de Proveedores:Suppliers management
+Gestion de Servicios:Service management
+Gestion de Caja:Cash register management
+Gestion de Turno:Turn management
+Gestion de Inventario:Inventary management
+Gestion de Informes:Report management
+Registrar Perfil:Register profile
+Tipo de Moneda:Type of currency
+Monto:Amount
+Ingresar Dinero:Deposit Money
+Egresar Dinero:Outgoing Money
+Ingresar Inventario:Deposit Inventary
+Egresar Inventario:Outgoing Inventary
+Turno Iniciado:Turn started
+Monto Inicial en Caja:Initial amount in cash register
+Iniciar Turno:Start turn
+Cerrar Turno:Close turn
+Seleccionar Cliente:Select client
+Seleccionar Empleado:Select employee
+Id Materia Prima:Id Raw Material
+Id Unidad De Medida:Id Unit of measurement
+Seleccionar Pago Empleado:Select employee payment
+Id Pago:Id payment
+Id Empleado:Id employee
+Fecha De Pago:Date of payment
+Seleccionar Pago Proveedor:Select supplier payment
+Id Pago Proveedor:Id supplier payment
+Id Proveedor:Id supplier
+Nombre Proveedor:Supplier name
+Monto pagado:Amount paid
+Monto adeudado:Amount owed
+Total:Total
+Fecha de pago:Date of payment
+Seleccionar Pago Servicio:Select service payment
+Id Pago Servicio:Id Service payment
+Id Servicio:Id Service
+Nombre Servicio:Service name
+Seleccionar Perfil:Select Profile
+Seleccionar Producto:Select Product
+Id Producto:Id Product
+Rubro:Category
+Seleccionar Proveedor:Select supplier
+Seleccionar Servicio:Select service
+Seleccionar Usuario:Select User
+Id Venta:Id Sale
+Id Cliente:Id Client
+Dni Cliente:Dni Client
+Id Tipo de pago:Id Type of payment
+Tipo de Pago:Type of payment
+Fecha de venta:Date of sale
+Ingresar:Login
+Buscar Cliente:Search Client
+Modificar Cliente:Modified Client
+Buscar Empleado:Search employee
+Modificar Empleado:Modified employee
+Buscar Materia Prima:Search Raw Material
+Modificar Materia Prima:Modified Raw Material
+Modificar Perfil:Modified Profile
+Modificar Producto:Modified Product
+Producto:Product
+Buscar Proveedor:Search supplier
+Modificar Proveedor:Modified Supplier
+Buscar Rubro:Search Category
+Modificar Rubro:Modified Category
+Buscar Servicio:Search Service
+Modificar Servicio:Modified Service
+Buscar Usuario:Search User
+Modificar Usuario:Modified User
+Si:Yes
+No:No
+Monto a pagar:Amount payable
+Realizar Pago:Make payment
+Cantidad Materia Prima:Raw Material Quantity
+Costo Materia Prima:Raw Material Cost
+Agregar Materia Prima a orden de compra:Add  Raw Material to Purchase order
+Remover Materia Prima de Orden de compra:Remove Raw Material of Purchase order
+SubTotal a pagar:Subtotal to pay
+Monto Pagado:Amount pay
+Unidad de medida:Unit of measurement
+Gestion Ventas:Sales management
+Pago Proveedor:Supplier payment
+Pago Empleado:Employee payment
+Pago Servicio:Service payment
+Realizar Pago Proveedor:Make supplier payment
+Cancelar Pago Proveedor:Cancel supplier payment
+Realizar Pago Empleado:Make employee payment
+Cancelar Pago Empleado:Cancel employee payment
+Realizar Pago Servicio:Make Service payment
+Cancelar Pago Servicio:Cancel service Payment
+Gestion Usuarios:Users management
+Usuarios:User
+Alta Usuario:Register User
+Perfiles:Profiles
+Crear Cliente:Register Client
+Modificar Perfil:Modified Profile
+Gestion Clientes:Clients management
+Alta Cliente:Register Client
+Gestion Empleados:Employees management
+Alta Empleado:Register Employee
+Gestion Rubros:Categories management
+Alta Rubro:Register Category
+Gestion Productos:Products management
+Materia Prima:Raw Material
+Alta Materia Prima:Register Raw Material
+Producto:Product
+Alta Producto:Register Product
+Gestion Proveedores:Suppliers management
+Alta Proveedor:Register supplier
+Gestion Servicios:Service management
+Alta Servicio:Register service
+Gestion Caja:Cash register management
+Gestion Turno:Turn management
+Gestion Inventario:Inventary management
+Gestion Informes:Report management
+Resumen Operativo:Operational Summary
+Balance:Balance
+Historico de Ordenes de Compra:Purchase order History
+Historico de Pagos Proveedor:Supplier Payment History
+Historico de Pagos Empleados:Employees Payment History
+Historico de Pagos Servicio:Service Payment History
+Historico de Ordenes de Venta:Sales order History
+Historico de Ventas:Sales History
+IdRubro:Id Category
+Codigo_rubro:Category code
+Nombre:Name
+IdEmpleado:Id Employee
+Dni:Dni
+IdCliente:Id Client
+Fecha_de_nacimiento:Date of Birth
+Dni:Dni
+Direccion:Adress
+IdPerfil:Id Profile
+IdProveedor:Id Supplier
+Cuit:Cuit
+IdServicio:Id Service
+Codigo_servicio:Service code
+Id Perfil:Id Perfil
+Nombre:Name
+Realizar Venta:Make Sale
+Cancelar Venta:Cancel Sale
+Realizar Pago Proveedor:Make supplier payment
+Cancelar Pago Proveedor:Cancel supplier payment
+Realizar pago empleado:Make Employee payment
+Cancelar pago empleado:Cancel Employee payment
+Realizar pago servicio:Make Service payment
+Cancelar pago servicio:Cancel Service payment
+Alta Usuario:Register User
+Modificar Usuario:Modified User
+Crear Perfil:Create Profile
+Modificar Perfil:Modified Profile
+Alta Cliente:Register Client
+Modificar Cliente:Modified Client
+Alta Empleado:Register Employee
+Modificar Empleado:Modified Employee
+Alta Rubro:Register Category
+Modificar Rubro:Modified Category
+Alta Materia Prima:Register Raw Material
+Modificar Materia Prima:Modified Raw Material
+Alta Producto:Register Product
+Modificar Producto:Modified Product
+Alta Proveedor:Register Supplier
+Modificar Proveedor:Modified Supplier
+Alta Servicio:Register Service
+Modificar Servicio:Modified Service
+Gestion Caja:Cash Register Management
+Gestion Turno:Turn Management
+Gestion Inventario:Inventary Management
+Resumen Operativo:Operational Summary
+Balance:Balance
+Gestion Ventas:Sales Management
+Pago Proveedor:Supplier Payment
+Pago Empleado:Employee Payment
+Pago Servicio:Service Payment
+Usuarios:Users
+Perfiles:Profiles
+Gestion Usuarios:Users Management
+Gestion Clientes:Client Management
+Gestion Empleados:Employees Management
+Gestion Rubros:Categories Management
+Materia Prima:Raw Material
+Producto:Product
+Gestion Productos:Products Management
+Gestion Proveedores:Suppliers Management
+Gestion Servicios:Services Management
+Gestion Caja:Register cash Management
+Gestion Turno:Turn Management
+Gestion Inventario:Inventary Management
+Gestion Informes:Reports Management
+Gestion Pagos:Payments Management
+Administrador:Adminitrastor
+Las contraseñas no coinnciden:Passwords do not match
+El Dni no esta Completo:DNI is not complete
+Codigo de Materia Prima Faltante:Raw material Code Missing
+El producto debe tener un componente:The Product need a Component
+Debe seleccionar Una Materia Prima:You must select a Raw Material
+Debe Poner el Cuit del Proveedor:You must write a supplier Cuit
+Debe Tener un Codigo de Rubro:It must have a Category code 
+Debe Tener un Codigo de Servicio:It must have a Service code
+Las Contraseñas no coinciden:Passwords do not match
+Debe seleccionar un Pago de Empleado:You must select a Employee payment
+Debe seleccionar un pago de proveedor:You must select a Supplier payment
+Debe seleccionar un Pago de servicio:You must select a Service payment
+Debe Seleccionar una Venta:You must select a Sale
+Debe Seleccionar un Perfil o un Permiso:You must select a Profile o permission
+Debe colocar un Monto:You must write an Amount
+Debe seleccionar un tipo de moneda:You must select a Type of cash
+Debe seleccionar una Materia Prima:You must select a Raw Material
+Debe colocar una cantidad:It need a Quantity
+Debe colocar un monto inicial:You must write a initial Amount
+No hay ningun turno Iniciado:It is not a turn initialized
+Debe seleccionar un Cliente:You must select a client
+Debe seleccionar un empleado:You must select a employee
+Debe seleccionar una materia prima:You must select a Raw Material
+Debe seleccionar un producto:You must select a Product
+Debe seleccionar un proveedor:You must select a Supplier
+Debe seleccionar un Rubro:You must select a Category
+Debe seleccionar un servicio:You must select a Service
+Debe colocar un monto:You must write an Amount
+Debe contener una orden de venta:It must have a sale order
+Fecha de Fin:End Date
+Fecha de Inicio:Strat Date
+Buscar Ventas:Search Sales
+Buscar Pagos de servicio:Search Services payment
+Buscar Pagos de proveedor:Search supplier payment
+Buscar Pagos de Empleados:Search employee payment
+Calcular Balance:Calculate Balance
+Id Usuario:Id User
+Usuario:User
+Habilitado:Enabled
+Cultura codigo:Cultera code
+El Usuario no esta Habilitado:The User is not Enabled
+Debe seleccionar un Perfil:You must select a Profile
+InHabilitado:Disabled
+Idioma:Language
+Español:Spanish
+Ingles:English
+Debe seleccionar un idioma:You must select a Lenguage
+Debe seleccionar si esta Habilitado o no:You must select if the user is enabled or disabled
+Cambiar Idioma:Change Language
+Cerrar Sesion:Logout
+Crear Producto:Register product
+Ventas Por Producto:Sales of Products
+Inventario:Inventory

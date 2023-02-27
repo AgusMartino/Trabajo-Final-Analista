@@ -1,0 +1,708 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BLL</name>
+    </assembly>
+    <members>
+        <member name="M:BLL.Contracts.IGenericBusinessLogic`1.insert(`0)">
+            <summary>
+            ingresar objeto
+            </summary>
+            <param name="obj">Objeto a registrar</param>
+        </member>
+        <member name="M:BLL.Contracts.IGenericBusinessLogic`1.delete(`0)">
+            <summary>
+            eliminar objeto
+            </summary>
+            <param name="obj">Objeto a eliminar</param>
+        </member>
+        <member name="M:BLL.Contracts.IGenericBusinessLogic`1.update(`0)">
+            <summary>
+            Actualizar objeto
+            </summary>
+            <param name="obj">Objeto a actualizar</param>
+        </member>
+        <member name="M:BLL.Contracts.IGenericBusinessLogic`1.GetOne(System.Int32)">
+            <summary>
+            Obtener Objeto
+            </summary>
+            <param name="id">identificador del objeto a obtener</param>
+            <returns>Objeto con el id parametrizado</returns>
+        </member>
+        <member name="M:BLL.Contracts.IGenericBusinessLogic`1.GetAll">
+            <summary>
+            Listar todos los registros 
+            </summary>
+            <returns>Lista de registros</returns>
+        </member>
+        <member name="M:BLL.Services.InventarioService.insert(DOMAIN.Inventario)">
+            <summary>
+            Registrando inventario
+            </summary>
+            <param name="inventario">inventario</param>
+        </member>
+        <member name="M:BLL.Services.InventarioService.delete(DOMAIN.Inventario)">
+            <summary>
+            Eliminando inventario
+            </summary>
+            <param name="inventario">inventario</param>
+        </member>
+        <member name="M:BLL.Services.InventarioService.update(DOMAIN.Inventario)">
+            <summary>
+            Actualizando inventario
+            </summary>
+            <param name="inventario">inventario</param>
+        </member>
+        <member name="M:BLL.Services.InventarioService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo inventario
+            </summary>
+            <param name="id">identificador de inventario</param>
+            <returns>Inventario obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.InventarioService.GetAll">
+            <summary>
+            Listado de inventario
+            </summary>
+            <returns>Lista de inventario registrados</returns>
+        </member>
+        <member name="M:BLL.Services.MateriaPrimaService.insert(DOMAIN.Productos.MateriaPrima)">
+            <summary>
+            Registrando Materia Prima
+            </summary>
+            <param name="materiaPrima">Materia Prima</param>
+        </member>
+        <member name="M:BLL.Services.MateriaPrimaService.delete(DOMAIN.Productos.MateriaPrima)">
+            <summary>
+            Eliminando Materia Primma
+            </summary>
+            <param name="obj">Materia Prima</param>
+        </member>
+        <member name="M:BLL.Services.MateriaPrimaService.update(DOMAIN.Productos.MateriaPrima)">
+            <summary>
+            Actualizando Materia Prima
+            </summary>
+            <param name="obj">Materia Prima</param>
+        </member>
+        <member name="M:BLL.Services.MateriaPrimaService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo Materia Prima
+            </summary>
+            <param name="id">identificador de materia prima</param>
+            <returns>Materia Prima obtenida</returns>
+        </member>
+        <member name="M:BLL.Services.MateriaPrimaService.GetAll">
+            <summary>
+            Listado de materia Primas
+            </summary>
+            <returns>Listado de Materias Primas</returns>
+        </member>
+        <member name="M:BLL.Services.Movimiento_cajaService.insert(DOMAIN.Movimiento_Caja)">
+            <summary>
+            Registrando Movimiento de caja
+            </summary>
+            <param name="movimiento_Caja">Moviemiento de caja</param>
+        </member>
+        <member name="M:BLL.Services.Movimiento_cajaService.delete(DOMAIN.Movimiento_Caja)">
+            <summary>
+            Elminando movimiento de caja
+            </summary>
+            <param name="movimiento_Caja">movimiento de caja</param>
+        </member>
+        <member name="M:BLL.Services.Movimiento_cajaService.update(DOMAIN.Movimiento_Caja)">
+            <summary>
+            Actualizando movimiento de caja
+            </summary>
+            <param name="movimiento_Caja">Movimiento de caja</param>
+        </member>
+        <member name="M:BLL.Services.Movimiento_cajaService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo moviemiento de caja
+            </summary>
+            <param name="id">identificador de movimiento de caja</param>
+            <returns>Movimiento de caja obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.Movimiento_cajaService.GetAll">
+            <summary>
+            Listado de movimeintos de caja
+            </summary>
+            <returns>Lista de moviemientos de caja</returns>
+        </member>
+        <member name="M:BLL.Services.Orden_de_compraService.delete(DOMAIN.Orden_de_Compra)">
+            <summary>
+            Eliminnar orden de compra
+            </summary>
+            <param name="obj">Orden de compra</param>
+        </member>
+        <member name="M:BLL.Services.Orden_de_compraService.GetAll">
+            <summary>
+            Obtener ordenes de compra
+            </summary>
+            <returns>Listado de ordenes de compra</returns>
+        </member>
+        <member name="M:BLL.Services.Orden_de_compraService.GetOne(System.Int32)">
+            <summary>
+            Obtener una orden de compra
+            </summary>
+            <param name="id">identificador de orden de compra</param>
+            <returns>orden de compra obtenida</returns>
+        </member>
+        <member name="M:BLL.Services.Orden_de_compraService.insert(DOMAIN.Orden_de_Compra)">
+            <summary>
+            Registrando ordenn de compra
+            </summary>
+            <param name="obj">orden de compra</param>
+        </member>
+        <member name="M:BLL.Services.Orden_de_compraService.update(DOMAIN.Orden_de_Compra)">
+            <summary>
+            Actualizando orden de compra
+            </summary>
+            <param name="obj">Orden de compra</param>
+        </member>
+        <member name="M:BLL.Services.Orden_de_compraService.GetOrdenesDeCompra(System.Int32)">
+            <summary>
+            Listado ordenes de compra de una venta
+            </summary>
+            <param name="id">identificador de la venta</param>
+            <returns>Listado de ordenes de compra de la venta con el parametro enviado anteriormente</returns>
+        </member>
+        <member name="M:BLL.Services.Orden_de_ventaService.delete(DOMAIN.Orden_de_Venta)">
+            <summary>
+            Elimianando orden de venta
+            </summary>
+            <param name="orden_De_Venta">orden de venta</param>
+        </member>
+        <member name="M:BLL.Services.Orden_de_ventaService.GetAll">
+            <summary>
+            Listado de ordenes de vennta
+            </summary>
+            <returns>Listado de ordenes de venta</returns>
+        </member>
+        <member name="M:BLL.Services.Orden_de_ventaService.GetOne(System.Int32)">
+            <summary>
+            obteniendo orden de veennta
+            </summary>
+            <param name="id">identificador de orden de venta</param>
+            <returns>orden de venta obtenida</returns>
+        </member>
+        <member name="M:BLL.Services.Orden_de_ventaService.insert(DOMAIN.Orden_de_Venta)">
+            <summary>
+            Registrando orden de venta 
+            </summary>
+            <param name="orden_De_Venta">orden de venta</param>
+        </member>
+        <member name="M:BLL.Services.Orden_de_ventaService.update(DOMAIN.Orden_de_Venta)">
+            <summary>
+            Eliminando orden de venta
+            </summary>
+            <param name="obj">orden de venta</param>
+        </member>
+        <member name="M:BLL.Services.Orden_de_ventaService.GetOrdenes(System.Int32)">
+            <summary>
+            listado de ordenes de venta
+            </summary>
+            <param name="id">identificado de la venta</param>
+            <returns>Ordenes de venta de la venta con el identificador pasado como parametro</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_empleadoService.delete(DOMAIN.Pago_Empleado)">
+            <summary>
+            Elminar pago de empleado
+            </summary>
+            <param name="obj">pago de empleado</param>
+        </member>
+        <member name="M:BLL.Services.Pago_empleadoService.GetAll">
+            <summary>
+            Listado de pagos de empleados
+            </summary>
+            <returns>Listado de pago de empledos</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_empleadoService.GetOne(System.Int32)">
+            <summary>
+            Obtener pago de empleado
+            </summary>
+            <param name="id">identificador de pago de empelado</param>
+            <returns>pago de empleado</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_empleadoService.insert(DOMAIN.Pago_Empleado)">
+            <summary>
+            Registrar Pago de empleado
+            </summary>
+            <param name="obj">pago de empleado</param>
+        </member>
+        <member name="M:BLL.Services.Pago_empleadoService.update(DOMAIN.Pago_Empleado)">
+            <summary>
+            Actualizacion de empleado
+            </summary>
+            <param name="obj">pago de empleado</param>
+        </member>
+        <member name="M:BLL.Services.Pago_empleadoService.GetPagoEntreFechas(System.DateTime,System.DateTime)">
+            <summary>
+            Listado de pagos de empleados entre Fechas
+            </summary>
+            <param name="dateTimeInicio">Fecha de inicio</param>
+            <param name="dateTimeFin">Fecha de fin</param>
+            <returns>Listado de pago de empleados entre fechas</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_proveedorService.delete(DOMAIN.Pago_Proveedor)">
+            <summary>
+            Elminar pago de proveedor
+            </summary>
+            <param name="obj">pago de proveedor</param>
+        </member>
+        <member name="M:BLL.Services.Pago_proveedorService.GetAll">
+            <summary>
+            Obteniedo listado de pago de proveedores
+            </summary>
+            <returns>Listado de pago de proveedores</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_proveedorService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo pago de proveedor
+            </summary>
+            <param name="id">identificador de pago de proveedor</param>
+            <returns>Pago de proveedor obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_proveedorService.insert(DOMAIN.Pago_Proveedor)">
+            <summary>
+            Registrando pago de proveedor
+            </summary>
+            <param name="obj">Pago de proveedor</param>
+        </member>
+        <member name="M:BLL.Services.Pago_proveedorService.update(DOMAIN.Pago_Proveedor)">
+            <summary>
+            Actualizando Pago de proveedor
+            </summary>
+            <param name="obj">pago de proveedor</param>
+        </member>
+        <member name="M:BLL.Services.Pago_proveedorService.GetMontoAdeudado(DOMAIN.Proveedor)">
+            <summary>
+            obteniendo monto adeudado del proveedor
+            </summary>
+            <param name="proveedor">proveedor</param>
+            <returns>ultimo pago al proveedor</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_proveedorService.GetId(DOMAIN.Pago_Proveedor)">
+            <summary>
+            Obteniendo identificador de pago de proveedor
+            </summary>
+            <param name="pago_Proveedor">pago de proveedor</param>
+            <returns>pago de proveedor obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_proveedorService.GetPagoEntreFechas(System.DateTime,System.DateTime)">
+            <summary>
+            Listando pago de proveedor entre fechas 
+            </summary>
+            <param name="dateTimeInicio">Fecha de inicio</param>
+            <param name="dateTimeFin">Fecha de fin</param>
+            <returns>Listado de pago de proveedor entre fechas</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_servicioService.delete(DOMAIN.Pago_Servicio)">
+            <summary>
+            eliminando pago de servicio
+            </summary>
+            <param name="obj">pago de servicio</param>
+        </member>
+        <member name="M:BLL.Services.Pago_servicioService.GetAll">
+            <summary>
+            Listado de pago de servicio
+            </summary>
+            <returns>Listado de pago de servicio</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_servicioService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo Pago de servicio
+            </summary>
+            <param name="id">identificador de pago de servicio</param>
+            <returns>pago de servicio obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.Pago_servicioService.insert(DOMAIN.Pago_Servicio)">
+            <summary>
+            Registrando pago de servicio
+            </summary>
+            <param name="obj">pago de servicio</param>
+        </member>
+        <member name="M:BLL.Services.Pago_servicioService.update(DOMAIN.Pago_Servicio)">
+            <summary>
+            Actualizando pago de servicio
+            </summary>
+            <param name="obj">pago de servicio</param>
+        </member>
+        <member name="M:BLL.Services.Pago_servicioService.GetPagoEntreFechas(System.DateTime,System.DateTime)">
+            <summary>
+            Listando pago de servicios entre fechas
+            </summary>
+            <param name="dateTimeInicio">fecha de inicio</param>
+            <param name="dateTimeFin">Fecha de fin</param>
+            <returns></returns>
+        </member>
+        <member name="M:BLL.Services.ProductoService.insert(DOMAIN.Productos.Producto)">
+            <summary>
+            Registrar Producto
+            </summary>
+            <param name="producto">producto</param>
+        </member>
+        <member name="M:BLL.Services.ProductoService.delete(DOMAIN.Productos.Producto)">
+            <summary>
+            Eliminar producto
+            </summary>
+            <param name="obj">producto</param>
+        </member>
+        <member name="M:BLL.Services.ProductoService.update(DOMAIN.Productos.Producto)">
+            <summary>
+            Actualizar producto
+            </summary>
+            <param name="producto">producto</param>
+        </member>
+        <member name="M:BLL.Services.ProductoService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo producto
+            </summary>
+            <param name="id">identificador del producto</param>
+            <returns>producto obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.ProductoService.GetAll">
+            <summary>
+            Listado de productos
+            </summary>
+            <returns>listado de productos</returns>
+        </member>
+        <member name="M:BLL.Services.ProductoService.GetMateriaPrimas(DOMAIN.Productos.Producto)">
+            <summary>
+            Obteniendo Componente del prodcuto
+            </summary>
+            <param name="producto">prodcuto</param>
+            <returns>listado de componentes del producto</returns>
+        </member>
+        <member name="M:BLL.Services.RubroService.delete(DOMAIN.Rubro)">
+            <summary>
+            Eliminando Rubro
+            </summary>
+            <param name="obj">rubro</param>
+        </member>
+        <member name="M:BLL.Services.RubroService.GetAll">
+            <summary>
+            Listando rubros
+            </summary>
+            <returns>Listado de ribros registrados</returns>
+        </member>
+        <member name="M:BLL.Services.RubroService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo rubro
+            </summary>
+            <param name="id">identificador de rubro</param>
+            <returns>Rubro obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.RubroService.insert(DOMAIN.Rubro)">
+            <summary>
+            Registrando rubro
+            </summary>
+            <param name="obj">Rubro</param>
+        </member>
+        <member name="M:BLL.Services.RubroService.update(DOMAIN.Rubro)">
+            <summary>
+            Actualizando Rubro
+            </summary>
+            <param name="obj">rubro</param>
+        </member>
+        <member name="M:BLL.Services.ServicioService.delete(DOMAIN.Servicio)">
+            <summary>
+            Eliminando servicio
+            </summary>
+            <param name="obj"></param>
+        </member>
+        <member name="M:BLL.Services.ServicioService.GetAll">
+            <summary>
+            Listando de servicio
+            </summary>
+            <returns>Lista de servicios</returns>
+        </member>
+        <member name="M:BLL.Services.ServicioService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo servicio
+            </summary>
+            <param name="id">identificador de servicio</param>
+            <returns>servicio obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.ServicioService.insert(DOMAIN.Servicio)">
+            <summary>
+            registrando servicio
+            </summary>
+            <param name="obj">servicio</param>
+        </member>
+        <member name="M:BLL.Services.ServicioService.update(DOMAIN.Servicio)">
+            <summary>
+            Actualizando serivicio
+            </summary>
+            <param name="obj">servicio</param>
+        </member>
+        <member name="M:BLL.Services.EmpleadoService.delete(DOMAIN.Empleado)">
+            <summary>
+            Empleado a eliminar
+            </summary>
+            <param name="obj">Empleado</param>
+        </member>
+        <member name="M:BLL.Services.EmpleadoService.GetAll">
+            <summary>
+            Listado de empleado
+            </summary>
+            <returns>Listado de empleados registrados</returns>
+        </member>
+        <member name="M:BLL.Services.EmpleadoService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo un empleado
+            </summary>
+            <param name="id">identificador del empleado</param>
+            <returns>Empleado obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.EmpleadoService.insert(DOMAIN.Empleado)">
+            <summary>
+            Registrando empleado
+            </summary>
+            <param name="obj">Empelado</param>
+        </member>
+        <member name="M:BLL.Services.EmpleadoService.update(DOMAIN.Empleado)">
+            <summary>
+            Actualizando Empleado
+            </summary>
+            <param name="obj">Empleado</param>
+        </member>
+        <member name="M:BLL.Services.ProveedorService.delete(DOMAIN.Proveedor)">
+            <summary>
+            Eliminando proveedor
+            </summary>
+            <param name="obj">proveedor</param>
+        </member>
+        <member name="M:BLL.Services.ProveedorService.GetAll">
+            <summary>
+            Listado de proveedores 
+            </summary>
+            <returns>listado de proveedores registrados</returns>
+        </member>
+        <member name="M:BLL.Services.ProveedorService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo proveedor
+            </summary>
+            <param name="id">identificador de proveedor</param>
+            <returns>Proveedor obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.ProveedorService.insert(DOMAIN.Proveedor)">
+            <summary>
+            Retgistrando Proveedor
+            </summary>
+            <param name="obj">proveedor</param>
+        </member>
+        <member name="M:BLL.Services.ProveedorService.update(DOMAIN.Proveedor)">
+            <summary>
+            Actualizando Proveedor
+            </summary>
+            <param name="obj">proveedor</param>
+        </member>
+        <member name="M:BLL.Services.ClienteService.delete(DOMAIN.Cliente)">
+            <summary>
+            Cliente a eliminar
+            </summary>
+            <param name="obj">Cliente a eliminar</param>
+        </member>
+        <member name="M:BLL.Services.ClienteService.GetAll">
+            <summary>
+            Listado de clientes
+            </summary>
+            <returns>Listado de clientes completo</returns>
+        </member>
+        <member name="M:BLL.Services.ClienteService.GetOne(System.Int32)">
+            <summary>
+            Obtiene un cliente mediate el parametro enviado
+            </summary>
+            <param name="id">Identificador del cliente</param>
+            <returns>Cliente obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.ClienteService.insert(DOMAIN.Cliente)">
+            <summary>
+            Registrando cliente
+            </summary>
+            <param name="obj">Cliennte a registrar</param>
+        </member>
+        <member name="M:BLL.Services.ClienteService.update(DOMAIN.Cliente)">
+            <summary>
+            Actuializar cliente
+            </summary>
+            <param name="obj">Cliente a actualizar</param>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_movimientoService.insert(DOMAIN.Tipo_de_movimiento)">
+            <summary>
+            Registrando tipo de movimiento
+            </summary>
+            <param name="tipo_De_Movimiento">tipo de movimiento</param>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_movimientoService.delete(DOMAIN.Tipo_de_movimiento)">
+            <summary>
+            Eliminando tipo de movimiento
+            </summary>
+            <param name="tipo_De_Movimiento">tipo de movimiento</param>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_movimientoService.update(DOMAIN.Tipo_de_movimiento)">
+            <summary>
+            Actualizando tipo de movimiento
+            </summary>
+            <param name="tipo_De_Movimiento">tipo de movimiento</param>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_movimientoService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo tipo de movimiento
+            </summary>
+            <param name="id">identificador de tipo de movimiento</param>
+            <returns></returns>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_movimientoService.GetAll">
+            <summary>
+            Listando tipos de movimiento
+            </summary>
+            <returns>tipos de movimientos</returns>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_pagoService.delete(DOMAIN.Tipo_de_pago)">
+            <summary>
+            Eliminando Tipo de pago
+            </summary>
+            <param name="obj">tipo de pago</param>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_pagoService.GetAll">
+            <summary>
+            Listando tipo de pago
+            </summary>
+            <returns>Listado de tipos de pago</returns>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_pagoService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo Tipo de pago
+            </summary>
+            <param name="id">identificador de tipo de pago</param>
+            <returns>tipo de pago obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_pagoService.insert(DOMAIN.Tipo_de_pago)">
+            <summary>
+            Registrando tipo de pago
+            </summary>
+            <param name="obj">tipo de pago</param>
+        </member>
+        <member name="M:BLL.Services.Tipo_de_pagoService.update(DOMAIN.Tipo_de_pago)">
+            <summary>
+            Actualizando tipo de pago
+            </summary>
+            <param name="obj">tipo de pago</param>
+        </member>
+        <member name="M:BLL.Services.TurnoService.insert(DOMAIN.Turno)">
+            <summary>
+            Registrando turno
+            </summary>
+            <param name="turno">turno</param>
+        </member>
+        <member name="M:BLL.Services.TurnoService.delete(DOMAIN.Turno)">
+            <summary>
+            Eliminando turno
+            </summary>
+            <param name="turno">turno</param>
+        </member>
+        <member name="M:BLL.Services.TurnoService.update(DOMAIN.Turno)">
+            <summary>
+            Actualizando Turno
+            </summary>
+            <param name="turno">Turno</param>
+        </member>
+        <member name="M:BLL.Services.TurnoService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo Turno
+            </summary>
+            <param name="id">Identificador de turno</param>
+            <returns>turno obtenido</returns>
+        </member>
+        <member name="M:BLL.Services.TurnoService.GetAll">
+            <summary>
+            Listando turnos
+            </summary>
+            <returns>listado de turnos</returns>
+        </member>
+        <member name="M:BLL.Services.TurnoService.GetTurno(System.DateTime)">
+            <summary>
+            Obteniendo identificador de turno
+            </summary>
+            <param name="dateTime">fecha de inicio de turno</param>
+        </member>
+        <member name="M:BLL.Services.Unidad_de_medidaService.delete(DOMAIN.Unidad_De_Medida)">
+            <summary>
+            Eliminando Unidad de medida
+            </summary>
+            <param name="obj">Unidad de medida</param>
+        </member>
+        <member name="M:BLL.Services.Unidad_de_medidaService.GetAll">
+            <summary>
+            Listado de unidad de medida
+            </summary>
+            <returns>Listando de unidad de medida</returns>
+        </member>
+        <member name="M:BLL.Services.Unidad_de_medidaService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo Undiad de Medida
+            </summary>
+            <param name="id">identificador de unidad de medida</param>
+            <returns></returns>
+        </member>
+        <member name="M:BLL.Services.Unidad_de_medidaService.insert(DOMAIN.Unidad_De_Medida)">
+            <summary>
+            Registrando Unidad de medida
+            </summary>
+            <param name="obj">Unidad de medida</param>
+        </member>
+        <member name="M:BLL.Services.Unidad_de_medidaService.update(DOMAIN.Unidad_De_Medida)">
+            <summary>
+            Actualizando Unidad de medida
+            </summary>
+            <param name="obj">Unidad de medida</param>
+        </member>
+        <member name="M:BLL.Services.VentaService.delete(DOMAIN.Venta)">
+            <summary>
+            Elminanado Venta
+            </summary>
+            <param name="obj">Venta</param>
+        </member>
+        <member name="M:BLL.Services.VentaService.GetAll">
+            <summary>
+            Listando Ventas registradas
+            </summary>
+            <returns>Listado de venntas regsitradas</returns>
+        </member>
+        <member name="M:BLL.Services.VentaService.GetOne(System.Int32)">
+            <summary>
+            Obteniendo Venta
+            </summary>
+            <param name="id">identificador de venta</param>
+            <returns>Venta Obtenida</returns>
+        </member>
+        <member name="M:BLL.Services.VentaService.insert(DOMAIN.Venta)">
+            <summary>
+            Registrando Venta
+            </summary>
+            <param name="obj">Venta</param>
+        </member>
+        <member name="M:BLL.Services.VentaService.update(DOMAIN.Venta)">
+            <summary>
+            Actualizando Venta
+            </summary>
+            <param name="obj">Venta</param>
+        </member>
+        <member name="M:BLL.Services.VentaService.GetId(DOMAIN.Venta)">
+            <summary>
+            Obteniendo Identififcador de la venta
+            </summary>
+            <param name="venta">Venta</param>
+            <returns></returns>
+        </member>
+        <member name="M:BLL.Services.VentaService.GetVentasEntreFechas(System.DateTime,System.DateTime)">
+            <summary>
+            Obteniendo Listado de ventas entre fechas
+            </summary>
+            <param name="dateTimeInicio">Fechas de inicio</param>
+            <param name="dateTimeFin">Fecha de fin</param>
+            <returns>Listado de ventas entre fechas</returns>
+        </member>
+    </members>
+</doc>
